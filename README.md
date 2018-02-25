@@ -5,3 +5,5 @@ Homework 2: KNN, Softmax, SVM
 
 Homework 3 : 2 layer Neural network, Fully connected Neural Network, Forward and Backward Propagation
 
+Homework 4: batch normalization and Dropout in Neural Networks
+
